@@ -1,0 +1,40 @@
+.smaller-image {
+  width: 25px;
+}
+
+.bigger-image {
+  width: 50px;
+}
+
+.navbar {
+  font-family: 'Arial', sans-serif;
+  font-size: 13px;
+  font-weight: 550;
+  letter-spacing: 0.5px;
+}
+
+.font {
+  font-size: 18px;
+}
+
+.font2 {
+  font-weight: 525;
+}
+
+.font3 {
+  font-weight: 525;
+  font-size: 12px;
+}
+
+
+.bi-heart {
+  font-size: 2em;
+}
+
+.bi-bag {
+  font-size: 2em;
+}
+
+.font2 {
+  font-size: 18px;
+}
